@@ -1,7 +1,8 @@
 # Quaternion Order Conventions
 Quaternions are expressions of the form `w + x i + y j + z k`, with `x i + y j + z k` being the vector/imaginary part and `w` the scalar/real part. Math libraries differ in the way they order the vector and real part of a quaternion. This can lead to bothersome debugging sessions. 
 
-The following table shows quaternion implementations and their chosen order: X-Y-Z-W ![#ffa500](https://placehold.it/15/ffa500/000000?text=+) (scalar-last format) or W-X-Y-Z ![#89cff0](https://placehold.it/15/89cff0/000000?text=+)
+The following table shows quaternion implementations and their chosen order:<br>
+X-Y-Z-W ![#ffa500](https://placehold.it/15/ffa500/000000?text=+) (scalar-last format) &nbsp; vs. &nbsp; W-X-Y-Z ![#89cff0](https://placehold.it/15/89cff0/000000?text=+)
 
 | Library / Framework |  Quaternion Order |
 | --- | --- |
