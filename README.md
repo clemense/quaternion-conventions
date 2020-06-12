@@ -4,11 +4,11 @@ Quaternions are expressions of the form `w + x i + y j + z k`, with `x i + y j +
 The following table shows quaternion implementations and their chosen order:<br>
 X-Y-Z-W ![#ffa500](https://placehold.it/15/ffa500/000000?text=+) (scalar-last format) &nbsp; vs. &nbsp; W-X-Y-Z ![#89cff0](https://placehold.it/15/89cff0/000000?text=+)
 
-| Library / Framework |  Quaternion Order |
+| Library / Framework |  Quaternion Format |
 | --- | --- |
 | [Blender.mathutils](https://docs.blender.org/api/blender_python_api_current/mathutils.html?highlight=vector#mathutils.Quaternion) | W-X-Y-Z ![#89cff0](https://placehold.it/15/89cff0/000000?text=+)|
 | [Boost](https://www.boost.org/doc/libs/1_71_0/libs/math/example/HSO3.hpp) | W-X-Y-Z ![#89cff0](https://placehold.it/15/89cff0/000000?text=+)|
-| [Bullet](https://pybullet.org/Bullet/BulletFull/classbtQuaternion.html) | X-Y-Z-W ![#ffa500](https://placehold.it/15/ffa500/000000?text=+)|
+| [Bullet](https://pybullet.org/Bullet/BulletFull/classbtQuaternion.html) / [PyBullet](http://goo.gl/QwJnFX) | X-Y-Z-W ![#ffa500](https://placehold.it/15/ffa500/000000?text=+)|
 | [Eigen](https://eigen.tuxfamily.org/dox/classEigen_1_1Quaternion.html)| W-X-Y-Z ![#89cff0](https://placehold.it/15/89cff0/000000?text=+)|
 | [FleX](https://developer.nvidia.com/flex) | X-Y-Z-W ![#ffa500](https://placehold.it/15/ffa500/000000?text=+)|
 | [MuJoCo](http://mujoco.org/book/modeling.html#COrientation) | W-X-Y-Z ![#89cff0](https://placehold.it/15/89cff0/000000?text=+)|
