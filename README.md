@@ -20,6 +20,7 @@ X-Y-Z-W ![#ffa500](https://placehold.it/15/ffa500/000000?text=+) (scalar-last fo
 | [pyquaternion](https://github.com/KieranWynn/pyquaternion) | W-X-Y-Z ![#89cff0](https://placehold.it/15/89cff0/000000?text=+)|
 | [ROS](https://docs.ros.org/api/geometry_msgs/html/msg/Quaternion.html) | X-Y-Z-W ![#ffa500](https://placehold.it/15/ffa500/000000?text=+)|
 | [scipy.spatial.transforms](https://docs.scipy.org/doc/scipy/reference/spatial.transform.html#) | X-Y-Z-W ![#ffa500](https://placehold.it/15/ffa500/000000?text=+)|
+| [The Library for Uniform Deterministic Sequences and Sets of Samples over 2-sphere and SO(3)](http://lavalle.pl/software/so3/so3.html)| X-Y-Z-W ![#ffa500](https://placehold.it/15/ffa500/000000?text=+)|
 | [transformations.py (<=2009.04.18)](http://docs.ros.org/jade/api/tf/html/python/transformations.html) | X-Y-Z-W ![#ffa500](https://placehold.it/15/ffa500/000000?text=+)|
 | [transformations.py (>=2010.05.10](https://www.lfd.uci.edu/~gohlke/code/transformations.py.html), includes [trimesh.transformations)](https://github.com/mikedh/trimesh/blob/master/trimesh/transformations.py) | W-X-Y-Z ![#89cff0](https://placehold.it/15/89cff0/000000?text=+)|
 | [Transforms3d](https://matthew-brett.github.io/transforms3d/reference/transforms3d.quaternions.html)| W-X-Y-Z ![#89cff0](https://placehold.it/15/89cff0/000000?text=+)|
