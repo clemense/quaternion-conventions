@@ -24,3 +24,4 @@ X-Y-Z-W ![#ffa500](https://placehold.it/15/ffa500/000000?text=+) (scalar-last fo
 | [transformations.py (<=2009.04.18)](http://docs.ros.org/jade/api/tf/html/python/transformations.html) | X-Y-Z-W ![#ffa500](https://placehold.it/15/ffa500/000000?text=+)|
 | [transformations.py (>=2010.05.10](https://www.lfd.uci.edu/~gohlke/code/transformations.py.html), includes [trimesh.transformations)](https://github.com/mikedh/trimesh/blob/master/trimesh/transformations.py) | W-X-Y-Z ![#89cff0](https://placehold.it/15/89cff0/000000?text=+)|
 | [Transforms3d](https://matthew-brett.github.io/transforms3d/reference/transforms3d.quaternions.html)| W-X-Y-Z ![#89cff0](https://placehold.it/15/89cff0/000000?text=+)|
+| [ViSII - A VIrtual Scene Imaging Interface](https://owl-project.github.io/ViSII/all.html#visii.quat)| W-X-Y-Z ![#89cff0](https://placehold.it/15/89cff0/000000?text=+)|
