@@ -11,6 +11,7 @@ X-Y-Z-W ![#ffa500](https://placehold.it/15/ffa500/000000?text=+) (scalar-last fo
 | [Bullet](https://pybullet.org/Bullet/BulletFull/classbtQuaternion.html) / [PyBullet](http://goo.gl/QwJnFX) | X-Y-Z-W ![#ffa500](https://placehold.it/15/ffa500/000000?text=+)|
 | [Eigen](https://eigen.tuxfamily.org/dox/classEigen_1_1Quaternion.html)| W-X-Y-Z ![#89cff0](https://placehold.it/15/89cff0/000000?text=+)|
 | [FleX](https://developer.nvidia.com/flex) | X-Y-Z-W ![#ffa500](https://placehold.it/15/ffa500/000000?text=+)|
+| [Klampt](http://motion.cs.illinois.edu/software/klampt/latest/pyklampt_docs/_modules/klampt/math/so3.html#quaternion) | W-X-Y-Z ![#89cff0](https://placehold.it/15/89cff0/000000?text=+)|
 | [MuJoCo](http://mujoco.org/book/modeling.html#COrientation) | W-X-Y-Z ![#89cff0](https://placehold.it/15/89cff0/000000?text=+)|
 | [Nuklei](http://nuklei.sourceforge.net/doxygen/) | W-X-Y-Z ![#89cff0](https://placehold.it/15/89cff0/000000?text=+)|
 | [numpy-quaternions](https://github.com/moble/quaternion) | W-X-Y-Z ![#89cff0](https://placehold.it/15/89cff0/000000?text=+)|
