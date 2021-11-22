@@ -9,6 +9,7 @@ X-Y-Z-W ![#ffa500](http://placehold.it/15/ffa500/000000?text=+) (scalar-last for
 | [Blender.mathutils](https://docs.blender.org/api/blender_python_api_current/mathutils.html?highlight=vector#mathutils.Quaternion) | W-X-Y-Z ![#89cff0](http://placehold.it/15/89cff0/000000?text=+)|
 | [Boost](https://www.boost.org/doc/libs/1_71_0/libs/math/example/HSO3.hpp) | W-X-Y-Z ![#89cff0](http://placehold.it/15/89cff0/000000?text=+)|
 | [Bullet](https://pybullet.org/Bullet/BulletFull/classbtQuaternion.html) / [PyBullet](http://goo.gl/QwJnFX) | X-Y-Z-W ![#ffa500](http://placehold.it/15/ffa500/000000?text=+)|
+| [differentiable-robot-model](https://github.com/facebookresearch/differentiable-robot-model/blob/7e58c1f286a57d48deaafc78bda0e3dedb8e5c4a/differentiable_robot_model/se3_so3_util.py) | X-Y-Z-W ![#ffa500](http://placehold.it/15/ffa500/000000?text=+)|
 | [Eigen](https://eigen.tuxfamily.org/dox/classEigen_1_1Quaternion.html)| W-X-Y-Z ![#89cff0](http://placehold.it/15/89cff0/000000?text=+)|
 | [FleX](https://developer.nvidia.com/flex) | X-Y-Z-W ![#ffa500](http://placehold.it/15/ffa500/000000?text=+)|
 | [Isaac Gym](https://developer.nvidia.com/isaac-gym) | X-Y-Z-W ![#ffa500](http://placehold.it/15/ffa500/000000?text=+)|
