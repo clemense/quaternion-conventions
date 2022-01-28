@@ -9,6 +9,8 @@ X-Y-Z-W ![#ffa500](http://placehold.it/15/ffa500/000000?text=+) (scalar-last for
 | [Blender.mathutils](https://docs.blender.org/api/blender_python_api_current/mathutils.html?highlight=vector#mathutils.Quaternion) | W-X-Y-Z ![#89cff0](http://placehold.it/15/89cff0/000000?text=+)|
 | [Boost](https://www.boost.org/doc/libs/1_71_0/libs/math/example/HSO3.hpp) | W-X-Y-Z ![#89cff0](http://placehold.it/15/89cff0/000000?text=+)|
 | [Bullet](https://pybullet.org/Bullet/BulletFull/classbtQuaternion.html) / [PyBullet](http://goo.gl/QwJnFX) | X-Y-Z-W ![#ffa500](http://placehold.it/15/ffa500/000000?text=+)|
+| [DART](https://github.com/dartsim/dart/blob/5058255853d5b733476fc031b18fb95bdf7d7f5d/python/dartpy/eigen_geometry_pybind.cpp#L225) (uses Eigen::Quaternion)| W-X-Y-Z ![#89cff0](http://placehold.it/15/89cff0/000000?text=+)|
+| [Drake](https://drake.mit.edu/pydrake/pydrake.common.eigen_geometry.html?highlight=quaternion#pydrake.common.eigen_geometry.Quaternion_[float]) (uses Eigen::Quaternion)| W-X-Y-Z ![#89cff0](http://placehold.it/15/89cff0/000000?text=+)|
 | [differentiable-robot-model](https://github.com/facebookresearch/differentiable-robot-model/blob/7e58c1f286a57d48deaafc78bda0e3dedb8e5c4a/differentiable_robot_model/se3_so3_util.py) | X-Y-Z-W ![#ffa500](http://placehold.it/15/ffa500/000000?text=+)|
 | [dm_robotics.transformations](https://github.com/deepmind/dm_robotics/tree/main/py/transformations)| W-X-Y-Z ![#89cff0](http://placehold.it/15/89cff0/000000?text=+)|
 | [Eigen](https://eigen.tuxfamily.org/dox/classEigen_1_1Quaternion.html)| W-X-Y-Z ![#89cff0](http://placehold.it/15/89cff0/000000?text=+)|
@@ -30,6 +32,7 @@ X-Y-Z-W ![#ffa500](http://placehold.it/15/ffa500/000000?text=+) (scalar-last for
 | [RoMa](https://naver.github.io/roma/#main-features) | X-Y-Z-W ![#ffa500](http://placehold.it/15/ffa500/000000?text=+)|
 | [ROS](https://docs.ros.org/api/geometry_msgs/html/msg/Quaternion.html) | X-Y-Z-W ![#ffa500](http://placehold.it/15/ffa500/000000?text=+)|
 | [scipy.spatial.transforms](https://docs.scipy.org/doc/scipy/reference/spatial.transform.html#) | X-Y-Z-W ![#ffa500](http://placehold.it/15/ffa500/000000?text=+)|
+| [spatialmath-python](https://petercorke.github.io/spatialmath-python/func_quat.html) | W-X-Y-Z ![#89cff0](http://placehold.it/15/89cff0/000000?text=+)|
 | [squaternion](https://github.com/MomsFriendlyRobotCompany/squaternion/blob/master/squaternion/squaternion.py) | W-X-Y-Z ![#89cff0](http://placehold.it/15/89cff0/000000?text=+)|
 | [The Library for Uniform Deterministic Sequences and Sets of Samples over 2-sphere and SO(3)](http://lavalle.pl/software/so3/so3.html)| X-Y-Z-W ![#ffa500](http://placehold.it/15/ffa500/000000?text=+)|
 | [transformations.py (<=2009.04.18)](http://docs.ros.org/jade/api/tf/html/python/transformations.html) | X-Y-Z-W ![#ffa500](http://placehold.it/15/ffa500/000000?text=+)|
