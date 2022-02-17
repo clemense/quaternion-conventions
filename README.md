@@ -39,4 +39,5 @@ X-Y-Z-W ![#ffa500](http://placehold.it/15/ffa500/000000?text=+) (scalar-last for
 | [transformations.py (>=2010.05.10](https://www.lfd.uci.edu/~gohlke/code/transformations.py.html), includes [trimesh.transformations)](https://github.com/mikedh/trimesh/blob/master/trimesh/transformations.py) | W-X-Y-Z ![#89cff0](http://placehold.it/15/89cff0/000000?text=+)|
 | [Transforms3d](https://matthew-brett.github.io/transforms3d/reference/transforms3d.quaternions.html)| W-X-Y-Z ![#89cff0](http://placehold.it/15/89cff0/000000?text=+)|
 | [tinyquaternion](https://github.com/rezaahmadzadeh/tinyquaternion/blob/master/tinyquaternion/tinyQuaternion.py)| W-X-Y-Z ![#89cff0](http://placehold.it/15/89cff0/000000?text=+)|
+| [USD (Pixar)](https://graphics.pixar.com/usd/release/api/class_gf_quatf.html#a781cffeee14aa3ba3f89de7d6df5a035)| W-X-Y-Z ![#89cff0](http://placehold.it/15/89cff0/000000?text=+)|
 | [ViSII - A VIrtual Scene Imaging Interface](https://owl-project.github.io/ViSII/all.html#visii.quat)| W-X-Y-Z ![#89cff0](http://placehold.it/15/89cff0/000000?text=+)|
