@@ -41,3 +41,4 @@ X-Y-Z-W ![#ffa500](http://placehold.it/15/ffa500/000000?text=+) (scalar-last for
 | [tinyquaternion](https://github.com/rezaahmadzadeh/tinyquaternion/blob/master/tinyquaternion/tinyQuaternion.py)| W-X-Y-Z ![#89cff0](http://placehold.it/15/89cff0/000000?text=+)|
 | [USD (Pixar)](https://graphics.pixar.com/usd/release/api/class_gf_quatf.html#a781cffeee14aa3ba3f89de7d6df5a035)| W-X-Y-Z ![#89cff0](http://placehold.it/15/89cff0/000000?text=+)|
 | [ViSII - A VIrtual Scene Imaging Interface](https://owl-project.github.io/ViSII/all.html#visii.quat)| W-X-Y-Z ![#89cff0](http://placehold.it/15/89cff0/000000?text=+)|
+| [NVIDIA Warp](https://nvidia.github.io/warp/_build/html/modules/functions.html?highlight=transform#quaternion-math) | X-Y-Z-W ![#ffa500](http://placehold.it/15/ffa500/000000?text=+)|
