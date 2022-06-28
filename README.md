@@ -6,6 +6,7 @@ X-Y-Z-W ![#ffa500](https://via.placeholder.com/15/ffa500/ffa500.png) (scalar-las
 
 | Library / Framework |  Quaternion Format |
 | --- | --- |
+| [autolab_core](https://berkeleyautomation.github.io/autolab_core/api/dual_quaternion.html#autolab_core.DualQuaternion.qr) |  W-X-Y-Z ![#89cff0](https://via.placeholder.com/15/89cff0/89cff0.png)|
 | [Blender.mathutils](https://docs.blender.org/api/blender_python_api_current/mathutils.html?highlight=vector#mathutils.Quaternion) | W-X-Y-Z ![#89cff0](https://via.placeholder.com/15/89cff0/89cff0.png)|
 | [Boost](https://www.boost.org/doc/libs/1_71_0/libs/math/example/HSO3.hpp) | W-X-Y-Z ![#89cff0](https://via.placeholder.com/15/89cff0/89cff0.png)|
 | [Bullet](https://pybullet.org/Bullet/BulletFull/classbtQuaternion.html) / [PyBullet](http://goo.gl/QwJnFX) | X-Y-Z-W ![#ffa500](https://via.placeholder.com/15/ffa500/ffa500.png)|
