@@ -42,6 +42,7 @@ X-Y-Z-W ![#ffa500](https://via.placeholder.com/15/ffa500/ffa500.png) (scalar-las
 | [transformations.py (>=2010.05.10](https://www.lfd.uci.edu/~gohlke/code/transformations.py.html), includes [trimesh.transformations)](https://github.com/mikedh/trimesh/blob/master/trimesh/transformations.py) | W-X-Y-Z ![#89cff0](https://via.placeholder.com/15/89cff0/89cff0.png)|
 | [Transforms3d](https://matthew-brett.github.io/transforms3d/reference/transforms3d.quaternions.html)| W-X-Y-Z ![#89cff0](https://via.placeholder.com/15/89cff0/89cff0.png)|
 | [tinyquaternion](https://github.com/rezaahmadzadeh/tinyquaternion/blob/master/tinyquaternion/tinyQuaternion.py)| W-X-Y-Z ![#89cff0](https://via.placeholder.com/15/89cff0/89cff0.png)|
-| [USD (Pixar)](https://graphics.pixar.com/usd/release/api/class_gf_quatf.html#a781cffeee14aa3ba3f89de7d6df5a035)| W-X-Y-Z ![#89cff0](https://via.placeholder.com/15/89cff0/89cff0.png)|
+| [USD (Pixar) - API](https://graphics.pixar.com/usd/release/api/class_gf_quatf.html#a781cffeee14aa3ba3f89de7d6df5a035)| W-X-Y-Z ![#89cff0](https://via.placeholder.com/15/89cff0/89cff0.png)|
+| [USD (Pixar) - Internal memory ordering](https://graphics.pixar.com/usd/release/api/quatf_8h_source.html)| X-Y-Z-W ![#ffa500](https://via.placeholder.com/15/ffa500/ffa500.png)|
 | [ViSII - A VIrtual Scene Imaging Interface](https://owl-project.github.io/ViSII/all.html#visii.quat)| W-X-Y-Z ![#89cff0](https://via.placeholder.com/15/89cff0/89cff0.png)|
 | [NVIDIA Warp](https://nvidia.github.io/warp/_build/html/modules/functions.html?highlight=transform#quaternion-math) | X-Y-Z-W ![#ffa500](https://via.placeholder.com/15/ffa500/ffa500.png)|
