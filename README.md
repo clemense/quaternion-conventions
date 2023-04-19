@@ -17,8 +17,10 @@ X-Y-Z-W ![#ffa500](https://via.placeholder.com/15/ffa500/ffa500.png) (scalar-las
 | [Eigen - API](https://eigen.tuxfamily.org/dox/classEigen_1_1Quaternion.html)| W-X-Y-Z ![#89cff0](https://via.placeholder.com/15/89cff0/89cff0.png)|
 | [Eigen - Internal memory ordering](https://eigen.tuxfamily.org/dox/classEigen_1_1Quaternion.html#a3eba7a582f77a8f30525614821d7056f)| X-Y-Z-W ![#ffa500](https://via.placeholder.com/15/ffa500/ffa500.png)|
 | [FleX](https://developer.nvidia.com/flex) | X-Y-Z-W ![#ffa500](https://via.placeholder.com/15/ffa500/ffa500.png)|
+| [iDynTree](https://robotology.github.io/idyntree/classiDynTree_1_1Rotation.html#adcac444f00ca751417f3095b401de86c) | W-X-Y-Z ![#89cff0](https://via.placeholder.com/15/89cff0/89cff0.png) | 
 | [Isaac Gym](https://developer.nvidia.com/isaac-gym) | X-Y-Z-W ![#ffa500](https://via.placeholder.com/15/ffa500/ffa500.png)|
 | [Klampt](http://motion.cs.illinois.edu/software/klampt/latest/pyklampt_docs/_modules/klampt/math/so3.html#quaternion) | W-X-Y-Z ![#89cff0](https://via.placeholder.com/15/89cff0/89cff0.png)|
+| [MATLAB](https://www.mathworks.com/help/robotics/ref/quaternion.html) | W-X-Y-Z ![#89cff0](https://via.placeholder.com/15/89cff0/89cff0.png)|
 | [MuJoCo](http://mujoco.org/book/modeling.html#COrientation) | W-X-Y-Z ![#89cff0](https://via.placeholder.com/15/89cff0/89cff0.png)|
 | [Nuklei](http://nuklei.sourceforge.net/doxygen/) | W-X-Y-Z ![#89cff0](https://via.placeholder.com/15/89cff0/89cff0.png)|
 | [numpy-quaternions](https://github.com/moble/quaternion) | W-X-Y-Z ![#89cff0](https://via.placeholder.com/15/89cff0/89cff0.png)|
@@ -47,3 +49,5 @@ X-Y-Z-W ![#ffa500](https://via.placeholder.com/15/ffa500/ffa500.png) (scalar-las
 | [USD (Pixar) - Internal memory ordering](https://graphics.pixar.com/usd/release/api/quatf_8h_source.html)| X-Y-Z-W ![#ffa500](https://via.placeholder.com/15/ffa500/ffa500.png)|
 | [ViSII - A VIrtual Scene Imaging Interface](https://owl-project.github.io/ViSII/all.html#visii.quat)| W-X-Y-Z ![#89cff0](https://via.placeholder.com/15/89cff0/89cff0.png)|
 | [NVIDIA Warp](https://nvidia.github.io/warp/_build/html/modules/functions.html?highlight=transform#quaternion-math) | X-Y-Z-W ![#ffa500](https://via.placeholder.com/15/ffa500/ffa500.png)|
+| [YARP - API](https://www.yarp.it/latest/classyarp_1_1math_1_1Quaternion.html) | X-Y-Z-W ![#ffa500](https://via.placeholder.com/15/ffa500/ffa500.png) |
+| [YARP - Internal memory ordering](https://github.com/robotology/yarp/blob/v3.8.0/src/libYARP_math/src/yarp/math/Quaternion.h#L23) | W-X-Y-Z ![#89cff0](https://via.placeholder.com/15/89cff0/89cff0.png) | 
