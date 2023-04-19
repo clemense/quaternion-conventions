@@ -14,7 +14,8 @@ X-Y-Z-W ![#ffa500](https://via.placeholder.com/15/ffa500/ffa500.png) (scalar-las
 | [Drake](https://drake.mit.edu/pydrake/pydrake.common.eigen_geometry.html?highlight=quaternion#pydrake.common.eigen_geometry.Quaternion_[float]) (uses Eigen::Quaternion)| W-X-Y-Z ![#89cff0](https://via.placeholder.com/15/89cff0/89cff0.png)|
 | [differentiable-robot-model](https://github.com/facebookresearch/differentiable-robot-model/blob/7e58c1f286a57d48deaafc78bda0e3dedb8e5c4a/differentiable_robot_model/se3_so3_util.py) | X-Y-Z-W ![#ffa500](https://via.placeholder.com/15/ffa500/ffa500.png)|
 | [dm_robotics.transformations](https://github.com/deepmind/dm_robotics/tree/main/py/transformations)| W-X-Y-Z ![#89cff0](https://via.placeholder.com/15/89cff0/89cff0.png)|
-| [Eigen](https://eigen.tuxfamily.org/dox/classEigen_1_1Quaternion.html)| W-X-Y-Z ![#89cff0](https://via.placeholder.com/15/89cff0/89cff0.png)|
+| [Eigen - API](https://eigen.tuxfamily.org/dox/classEigen_1_1Quaternion.html)| W-X-Y-Z ![#89cff0](https://via.placeholder.com/15/89cff0/89cff0.png)|
+| [Eigen - Internal memory ordering](https://eigen.tuxfamily.org/dox/classEigen_1_1Quaternion.html#a3eba7a582f77a8f30525614821d7056f)| X-Y-Z-W ![#ffa500](https://via.placeholder.com/15/ffa500/ffa500.png)|
 | [FleX](https://developer.nvidia.com/flex) | X-Y-Z-W ![#ffa500](https://via.placeholder.com/15/ffa500/ffa500.png)|
 | [Isaac Gym](https://developer.nvidia.com/isaac-gym) | X-Y-Z-W ![#ffa500](https://via.placeholder.com/15/ffa500/ffa500.png)|
 | [Klampt](http://motion.cs.illinois.edu/software/klampt/latest/pyklampt_docs/_modules/klampt/math/so3.html#quaternion) | W-X-Y-Z ![#89cff0](https://via.placeholder.com/15/89cff0/89cff0.png)|
