@@ -20,6 +20,7 @@ X-Y-Z-W ![#ffa500](https://via.placeholder.com/15/ffa500/ffa500.png) (scalar-las
 | [iDynTree](https://robotology.github.io/idyntree/classiDynTree_1_1Rotation.html#adcac444f00ca751417f3095b401de86c) | W-X-Y-Z ![#89cff0](https://via.placeholder.com/15/89cff0/89cff0.png) | 
 | [Isaac Gym](https://developer.nvidia.com/isaac-gym) | X-Y-Z-W ![#ffa500](https://via.placeholder.com/15/ffa500/ffa500.png)|
 | [lietorch](https://github.com/princeton-vl/lietorch) | X-Y-Z-W ![#ffa500](https://via.placeholder.com/15/ffa500/ffa500.png)|
+| [jaxlie](https://brentyi.github.io/jaxlie/api/jaxlie/_se3/?highlight=quaternion#jaxlie._se3.SE3.wxyz_xyz) | W-X-Y-Z ![#89cff0](https://via.placeholder.com/15/89cff0/89cff0.png) | 
 | [Klampt](http://motion.cs.illinois.edu/software/klampt/latest/pyklampt_docs/_modules/klampt/math/so3.html#quaternion) | W-X-Y-Z ![#89cff0](https://via.placeholder.com/15/89cff0/89cff0.png)|
 | [MATLAB](https://www.mathworks.com/help/robotics/ref/quaternion.html) | W-X-Y-Z ![#89cff0](https://via.placeholder.com/15/89cff0/89cff0.png)|
 | [MuJoCo](http://mujoco.org/book/modeling.html#COrientation) | W-X-Y-Z ![#89cff0](https://via.placeholder.com/15/89cff0/89cff0.png)|
