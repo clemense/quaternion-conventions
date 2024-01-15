@@ -39,7 +39,7 @@ X-Y-Z-W ![#ffa500](https://via.placeholder.com/15/ffa500/ffa500.png) (scalar-las
 | [ROS](https://docs.ros.org/api/geometry_msgs/html/msg/Quaternion.html) | X-Y-Z-W ![#ffa500](https://via.placeholder.com/15/ffa500/ffa500.png)|
 | [ROS2 (tf2)](https://github.com/ros2/geometry2/blob/rolling/tf2/include/tf2/LinearMath/QuadWord.h) | X-Y-Z-W ![#ffa500](https://via.placeholder.com/15/ffa500/ffa500.png)|
 | [scipy.spatial.transforms](https://docs.scipy.org/doc/scipy/reference/spatial.transform.html#) | X-Y-Z-W ![#ffa500](https://via.placeholder.com/15/ffa500/ffa500.png)|
-| [spatialmath-python](https://petercorke.github.io/spatialmath-python/func_quat.html) | W-X-Y-Z ![#89cff0](https://via.placeholder.com/15/89cff0/89cff0.png)|
+| [spatialmath-python](https://bdaiinstitute.github.io/spatialmath-python/func_quat.html#module-spatialmath.base.quaternions) | W-X-Y-Z ![#89cff0](https://via.placeholder.com/15/89cff0/89cff0.png)|
 | [squaternion](https://github.com/MomsFriendlyRobotCompany/squaternion/blob/master/squaternion/squaternion.py) | W-X-Y-Z ![#89cff0](https://via.placeholder.com/15/89cff0/89cff0.png)|
 | [The Library for Uniform Deterministic Sequences and Sets of Samples over 2-sphere and SO(3)](http://lavalle.pl/software/so3/so3.html)| X-Y-Z-W ![#ffa500](https://via.placeholder.com/15/ffa500/ffa500.png)|
 | [Theseus](https://github.com/facebookresearch/theseus/blob/e6dd7937edee59daf5f5c2ffe870f39fa1171e90/theseus/embodied/kinematics/kinematics_model.py#L44)| W-X-Y-Z ![#89cff0](https://via.placeholder.com/15/89cff0/89cff0.png)|
