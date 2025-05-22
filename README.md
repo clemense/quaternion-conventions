@@ -20,6 +20,7 @@ X-Y-Z-W 🟥 (scalar-last format) &nbsp; vs. &nbsp; W-X-Y-Z 🟦
 | [iDynTree](https://robotology.github.io/idyntree/classiDynTree_1_1Rotation.html#adcac444f00ca751417f3095b401de86c) | W-X-Y-Z 🟦 | 
 | [Isaac Gym](https://developer.nvidia.com/isaac-gym) | X-Y-Z-W 🟥|
 | [Isaac Lab](https://isaac-sim.github.io/IsaacLab/main/source/migration/migrating_from_isaacgymenvs.html#quaternion-convention) | W-X-Y-Z 🟦|
+| [Isaac Sim](https://docs.omniverse.nvidia.com/isaacsim/latest/reference_conventions.html#quaternions) | W-X-Y-Z 🟦|
 | [lietorch](https://github.com/princeton-vl/lietorch) | X-Y-Z-W 🟥|
 | [jaxlie](https://brentyi.github.io/jaxlie/api/jaxlie/_se3/?highlight=quaternion#jaxlie._se3.SE3.wxyz_xyz) | W-X-Y-Z 🟦 | 
 | [Klampt](http://motion.cs.illinois.edu/software/klampt/latest/pyklampt_docs/_modules/klampt/math/so3.html#quaternion) | W-X-Y-Z 🟦|
