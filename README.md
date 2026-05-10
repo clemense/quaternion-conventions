@@ -17,6 +17,7 @@ X-Y-Z-W 🟥 (scalar-last format) &nbsp; vs. &nbsp; W-X-Y-Z 🟦
 | [Eigen - API](https://eigen.tuxfamily.org/dox/classEigen_1_1Quaternion.html)| W-X-Y-Z 🟦|
 | [Eigen - Internal memory ordering](https://eigen.tuxfamily.org/dox/classEigen_1_1Quaternion.html#a3eba7a582f77a8f30525614821d7056f)| X-Y-Z-W 🟥|
 | [FleX](https://developer.nvidia.com/flex) | X-Y-Z-W 🟥|
+| [Genesis](https://genesis-world.readthedocs.io/en/latest/user_guide/getting_started/conventions.html) | W-X-Y-Z 🟦|
 | [iDynTree](https://robotology.github.io/idyntree/classiDynTree_1_1Rotation.html#adcac444f00ca751417f3095b401de86c) | W-X-Y-Z 🟦 | 
 | [Isaac Gym](https://developer.nvidia.com/isaac-gym) | X-Y-Z-W 🟥|
 | [Isaac Lab](https://isaac-sim.github.io/IsaacLab/main/source/migration/migrating_from_isaacgymenvs.html#quaternion-convention) | W-X-Y-Z 🟦|
@@ -26,8 +27,10 @@ X-Y-Z-W 🟥 (scalar-last format) &nbsp; vs. &nbsp; W-X-Y-Z 🟦
 | [Klampt](http://motion.cs.illinois.edu/software/klampt/latest/pyklampt_docs/_modules/klampt/math/so3.html#quaternion) | W-X-Y-Z 🟦|
 | [MATLAB](https://www.mathworks.com/help/robotics/ref/quaternion.html) | W-X-Y-Z 🟦|
 | [MuJoCo](http://mujoco.org/book/modeling.html#COrientation) | W-X-Y-Z 🟦|
+| [Newton](https://newton-physics.github.io/newton/stable/concepts/conventions.html#quaternion-ordering-conventions) | X-Y-Z-W 🟥|
 | [Nuklei](http://nuklei.sourceforge.net/doxygen/) | W-X-Y-Z 🟦|
 | [numpy-quaternions](https://github.com/moble/quaternion) | W-X-Y-Z 🟦|
+| [Open3D](https://github.com/isl-org/Open3D/blob/main/cpp/open3d/geometry/Geometry3D.cpp) (uses Eigen::Quaternion)| W-X-Y-Z 🟦|
 | [OpenRAVE 0.9.0](http://openrave.org/docs/latest_stable/coreapihtml/geometry_8h_source.html) | X-Y-Z-W 🟥|
 | [Orocos KDL](http://docs.ros.org/jade/api/orocos_kdl/html/classKDL_1_1Rotation.html) | X-Y-Z-W 🟥|
 | [PhysX](https://docs.nvidia.com/gameworks/content/gameworkslibrary/physx/apireference/files/classPxQuat.html) | X-Y-Z-W 🟥|
