@@ -34,6 +34,7 @@ X-Y-Z-W 🟥 (scalar-last format) &nbsp; vs. &nbsp; W-X-Y-Z 🟦
 | [OpenRAVE 0.9.0](http://openrave.org/docs/latest_stable/coreapihtml/geometry_8h_source.html) | X-Y-Z-W 🟥|
 | [Orocos KDL](http://docs.ros.org/jade/api/orocos_kdl/html/classKDL_1_1Rotation.html) | X-Y-Z-W 🟥|
 | [PhysX](https://docs.nvidia.com/gameworks/content/gameworkslibrary/physx/apireference/files/classPxQuat.html) | X-Y-Z-W 🟥|
+| [Project Chrono](https://projectchrono.org/) | W-X-Y-Z 🟦|
 | [PyMesh](https://pymesh.readthedocs.io/en/latest/api_misc.html#quaternion) | W-X-Y-Z 🟦|
 | [pyquaternion](https://github.com/KieranWynn/pyquaternion) | W-X-Y-Z 🟦|
 | [pyrr](https://pyrr.readthedocs.io/en/latest/_modules/pyrr/quaternion.html) | X-Y-Z-W 🟥|
